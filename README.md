@@ -17,7 +17,7 @@ Replace `X` in examples below with minor version of Python --  `5` for Python 3.
 Python 3.X will be installed into `/usr/local/opt/python@3.X`, as a keg, i.e without linking into `/usr/local/bin` in order to avoid conflicts with the python formulae.
 
 ```bash
-brew install sashkab/python/python@3.X
+brew install ComradeNapCali/python/python@3.X
 ```
 
 You can use it to create a virtual environment by passing full path to the Python executable:
